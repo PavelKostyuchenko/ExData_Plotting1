@@ -24,5 +24,5 @@ par(mar = c(4, 4, 3, 1), bg="transparent", oma = c(0, 0, 0, 0))
   hist(data_sub$Global_active_power, xlab = "Global Active Power (kilowatts)", 
      col="red", main = "Global Active Power")
 
-##Step 8: closing png
+##Step 8: closing png 
 dev.off()

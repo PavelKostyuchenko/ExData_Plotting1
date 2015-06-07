@@ -32,5 +32,5 @@ with(data_sub, {
   plot(date_upd, Global_active_power, ylab = "Global Active Power (kilowatts)", type = "l")
 })
 
-##Step 10: closing png
+##Step 10: closing png 
 dev.off()
